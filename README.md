@@ -20,7 +20,7 @@
 
 ## 📖 Visão Geral
 
-O presente projeto tem como propósito central realizar um diagnóstico organizacional e tecnológico em uma empresa, visando identificar necessidades de modernização em processos, sistemas, infraestrutura e uso de recursos tecnológicos. O resultado final prevê a entrega de um relatório executivo com o diagnóstico detalhado, a seleção de uma solução de TI de baixo custo e um plano de ação (5W2H) para sua implementação.
+O presente projeto tem como propósito central realizar um diagnóstico organizacional e tecnológico em uma empresa, visando identificar necessidades de modernização em processos, sistemas, infraestrutura e uso de recursos tecnológicos. O resultado final prevê a entrega de um relatório executivo com o diagnóstico detalhado, a seleção de uma solução de TI de baixo custo e um plano de ação (5W2H) para a sua possível implementação.
 
 ### 🎯 Objetivos
 * **Geral:** Realizar um diagnóstico organizacional e tecnológico em uma empresa, visando identificar necessidades de modernização em seus processos, sistemas, infraestrutura e uso da TI, de modo a propor soluções adequadas às demandas identificadas e elaborar um plano de ação para sua possível implementação.
