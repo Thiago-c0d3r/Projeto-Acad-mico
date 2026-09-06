@@ -24,13 +24,14 @@ O presente projeto tem como propósito central realizar um diagnóstico organiza
 
 ### 🎯 Objetivos
 * **Geral:** Realizar um diagnóstico organizacional e tecnológico em uma empresa, visando identificar necessidades de modernização em seus processos, sistemas, infraestrutura e uso da TI, de modo a propor soluções adequadas às demandas identificadas e elaborar um plano de ação para sua possível implementação.
-  * 1. Definir e formalizar empresa objeto do projeto.
+  
+  * 1.Definir e formalizar empresa objeto do projeto.
   * 2.Realizar diagnóstico organizacional.
   * 3.Realizar diagnóstico de TI.
-  * 4. Analisar dados do diagnóstico.
+  * 4.Analisar dados do diagnóstico.
   * 5.Identificar problema a ser tratado.
   * 6.Identificar a solução de TI a ser proposta.
-  * 7. Elaborar proposta de implantação de solução.
+  * 7.Elaborar proposta de implantação de solução.
 
 ---
 
