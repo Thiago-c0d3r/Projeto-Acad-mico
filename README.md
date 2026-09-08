@@ -70,7 +70,7 @@ O presente projeto tem como propósito central realizar um diagnóstico organiza
 | **9** | Realizar diagnóstico organizacional | Realizar a observação in loco e a análise documental. | Ian e Gabriel | 03/09/2026 | 05/09/2026 | ✅ Concluído |
 | **10** | Realizar diagnóstico organizacional | Elaborar o relatório de observação. | Ian e Victor | 05/09/2026 | 05/09/2026 | ✅ Concluído |
 | **11** | Realizar diagnóstico organizacional | Mapear fluxogramas dos processos críticos. | Igor e Luan | 06/09/2026 | 06/09/2026 | ✅ Concluído |
-| **12** | Entregas 1º Bimestre | Identificar gargalos e redundâncias. | Isabele e Kauã | 07/09/2026 | 07/09/2026 | ⏳ A Fazer |
+| **12** | Entregas 1º Bimestre | Identificar gargalos e redundâncias. | Isabele e Kauã | 07/09/2026 | 07/09/2026 | ✅ Concluído |
 | **13** | Entregas 1º Bimestre | Postar plano de trabalho no GPA. | Grupo | 08/09/2026 | 08/09/2026 | ⏳ A Fazer |
 | **14** | Entregas 1º Bimestre | Preencher Introdução/Referência/Metodologia no GPA. | Grupo | 08/09/2026 | 08/09/2026 | ⏳ A Fazer |
 | **15** | Entregas 1º Bimestre | Preencher / Atualizar o Trello. | Leandro | 08/09/2026 | 08/09/2026 | ⏳ A Fazer |
