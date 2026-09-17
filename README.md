@@ -57,26 +57,6 @@ O presente projeto tem como propósito central realizar um diagnóstico organiza
 
 ## 📅 Cronograma & Tabela de Acompanhamento 
 
-| Nº | Etapa | Atividade | Responsável | Início | Término | Status |
-|---|---|---|---|---|---|---|
-| **1** | Definir e formalizar empresa | Mapear empresas com perfil adequado para o projeto. | Grupo | 29/08/2026 | 29/08/2026 | ✅ Concluído |
-| **2** | Definir e formalizar empresa | Definir e selecionar a empresa objeto do projeto | Grupo | 29/08/2026 | 29/08/2026 | ✅ Concluído |
-| **3** | Definir e formalizar empresa | Marcar Reunião com o gestor. | Ian | 31/08/2026 | 31/08/2026 | ✅ Concluído |
-| **4** | Definir e formalizar empresa | Realizar reunião inicial com o gestor da empresa para apresentação da proposta. | Ian, Victor e Gestor | 31/08/2026 | 31/08/2026 | ✅ Concluído |
-| **5** | Definir e formalizar empresa | Elaborar a súmula de formalização com a empresa. | Victor | 01/09/2026 | 01/09/2026 | ✅ Concluído |
-| **6** | Definir e formalizar empresa | Coletar assinatura da súmula | Ian, Victor e Gestor | 01/09/2026 | 01/09/2026 | ✅ Concluído |
-| **7** | Realizar diagnóstico organizacional | Fazer levantamentos de dados iniciais sobre a empresa. | Ian, Victor e o Gestor | 01/09/2026 | 02/09/2026 | ✅ Concluído |
-| **8** | Realizar diagnóstico organizacional | Preparar o roteiro de observação e o checklist de coleta de dados. | Victor | 02/09/2026 | 02/09/2026 | ✅ Concluído |
-| **9** | Realizar diagnóstico organizacional | Realizar a observação in loco e a análise documental. | Ian e Gabriel | 03/09/2026 | 05/09/2026 | ✅ Concluído |
-| **10** | Realizar diagnóstico organizacional | Elaborar o relatório de observação. | Ian e Victor | 05/09/2026 | 05/09/2026 | ✅ Concluído |
-| **11** | Realizar diagnóstico organizacional | Mapear fluxogramas dos processos críticos. | Igor e Luan | 06/09/2026 | 06/09/2026 | ✅ Concluído |
-| **12** | Entregas 1º Bimestre | Identificar gargalos e redundâncias. | Isabele e Kauã | 07/09/2026 | 07/09/2026 | ✅ Concluído |
-| **13** | Entregas 1º Bimestre | Postar plano de trabalho no GPA. | Grupo | 08/09/2026 | 08/09/2026 | ⏳ A Fazer |
-| **14** | Entregas 1º Bimestre | Preencher Introdução/Referência/Metodologia no GPA. | Grupo | 08/09/2026 | 08/09/2026 | ⏳ A Fazer |
-| **15** | Entregas 1º Bimestre | Preencher / Atualizar o Trello. | Leandro | 08/09/2026 | 08/09/2026 | ⏳ A Fazer |
-| **16** | Entregas 1º Bimestre | Postar projeto parcial no GPA. | Leandro | 08/09/2026 | 08/09/2026 | ⏳ A Fazer |
-
-*(As demais atividades serão atualizadas conforme o andamento das próximas fases do projeto).*
 
 ---
 
