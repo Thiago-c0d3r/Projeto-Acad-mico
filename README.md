@@ -55,8 +55,6 @@ O presente projeto tem como propósito central realizar um diagnóstico organiza
 
 ---
 
-## 📅 Cronograma & Tabela de Acompanhamento 
-
 
 ---
 
