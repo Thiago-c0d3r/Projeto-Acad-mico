@@ -187,11 +187,7 @@ Os resultados do diagnóstico, das análises e da proposta de intervenção ser�
 
 ## 📊 Status Atual
 
-**Fase atual:** Diagnóstico organizacional / Entregas do 1º Bimestre.
-
-O diagnóstico organizacional contempla a elaboração e aplicação do roteiro de entrevista, tabulação dos dados coletados e elaboração do organograma.
-
-As próximas etapas previstas no plano de trabalho envolvem o diagnóstico de TI, incluindo entrevista, questionários, observação dos recursos tecnológicos, tabulação dos dados e mapeamento de softwares, hardwares e infraestrutura de rede.
+**Fase atual:** Apresentação / Entregas do 2º Bimestre.
 
 ---
 
